@@ -1,5 +1,5 @@
 Host myserver
-  HostName 98.98.98.98
+  HostName 54.167.196.155 
   User ubuntu
   IdentityFile ~/.ssh/school
   IdentitiesOnly yes
